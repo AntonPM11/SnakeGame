@@ -2,7 +2,7 @@
    ![unnamed](https://user-images.githubusercontent.com/58429452/74645481-b4d8eb00-5180-11ea-9752-33cdda700443.jpg)
 -------------------------------
 
-1. To download Snake Game open this [link](https://drive.google.comopenid=17lvRiPJOtJVP73-6puv2V-YeHBrKyjba).
+1. To download Snake Game open this [link](https://drive.google.com/file/d/17lvRiPJOtJVP73-6puv2V-YeHBrKyjba/view).
 Then download SnakeGame.exe file.
 ![Знімок екрана 1(3)](https://user-images.githubusercontent.com/58429452/74645495-befae980-5180-11ea-9caa-f8703c9fb2f7.png)
 2. Run SnakeGame.exe file.
